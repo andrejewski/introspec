@@ -1,7 +1,7 @@
 {
   "name": "introspec",
   "description": "Dependencies and configuration described through data",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "author": "Chris Andrejewski <christopher.andrejewski@gmail.com>",
   "ava": {
     "require": [
