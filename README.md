@@ -1,4 +1,6 @@
 # Introspec
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/andrejewski/introspec.svg)](https://greenkeeper.io/)
 Dependencies and configuration described through data.
 
 ```sh
