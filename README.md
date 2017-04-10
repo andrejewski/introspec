@@ -1,14 +1,15 @@
 # Introspec
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/andrejewski/introspec.svg)](https://greenkeeper.io/)
 Dependencies and configuration described through data.
 
 ```sh
 npm install introspec
 ```
 
+[![npm](https://img.shields.io/npm/v/introspec.svg)](https://www.npmjs.com/package/introspec)
 [![Build Status](https://travis-ci.org/andrejewski/introspec.svg?branch=master)](https://travis-ci.org/andrejewski/introspec)
 [![Coverage Status](https://coveralls.io/repos/github/andrejewski/introspec/badge.svg?branch=master)](https://coveralls.io/github/andrejewski/introspec?branch=master)
+[![Greenkeeper badge](https://badges.greenkeeper.io/andrejewski/introspec.svg)](https://greenkeeper.io/)
 
 ## Why even?
 Introspec is a variation of [Integrant](https://github.com/weavejester/integrant) for JavaScript. A [great talk](https://skillsmatter.com/skillscasts/9820-enter-integrant-a-micro-framework-for-data-driven-architecture-with-james-reeves) by the author of the framework goes into the details of why it simplifies system structure.
